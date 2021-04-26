@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<listOfIDXRefData>
+	<idXRef name="Customer.Integration.BizTalk.GE.Invoicing">
+		<appInstance name="X_InvoiceAPApprovedToBAPI_ACC_INVOICE_RECEIPT_POST">
+			<appID commonID="2300000000">SAPDocFormatString</appID>
+			<appID commonID="SFDOCNO000000000">REF_DOC_NO_FormatString</appID>
+			<appID commonID="BKPFF">OBJ_TYPE</appID>
+			<appID commonID="SAPDEV003">OBJ_SYS</appID>
+			<appID commonID="21">COMP_CODE</appID>
+			<appID commonID="Y1">DOC_TYPE</appID>
+		</appInstance>
+		<appInstance name="X_InvoiceAPApprovedToBAPI_ACC_INVOICE_RECEIPT_ET">
+			<!--
+        TrimLength is the number of characters to delete from the 
+        right end of the commonID parameter. This allows repeating
+        values to exist in the table column that does not permit
+        repeating values.
+        -->
+			<appID commonID="4">TrimLength</appID>
+			<appID commonID="53760.000">Client Event</appID>
+			<appID commonID="53760.001">Personal Gift</appID>
+			<appID commonID="53760.002">Professional Gift</appID>
+			<appID commonID="53760.003">Promotional Gift</appID>
+			<appID commonID="53760.004">Ticket Package</appID>
+			<appID commonID="53770.000">Client Sponsorship</appID>
+			<appID commonID="53772.000">Charitable Contribution</appID>
+			<appID commonID="59770.000">Client Travel</appID>
+			<appID commonID="59780.000">Client Meal</appID>
+		</appInstance>
+		<appInstance name="X_InvoiceAPApprovedToBAPI_SAP_PaymentMethods">
+			<appID commonID="B">Bank Direct Debits (ACH)</appID>
+			<appID commonID="C">AP Check</appID>
+			<appID commonID="T">Bank transfer (Wire)</appID>
+			<appID commonID="X">International Checks</appID>
+			<appID commonID="Y">Employee Expense Reports</appID>
+		</appInstance>
+		<appInstance name="X_InvoiceAPApprovedToBAPI_Defaults">
+			<appID commonID="USD">Currency</appID>
+		</appInstance>
+		<appInstance name="X_InvoiceAPApprovedToBAPI_SFDC_PaymentMethods">
+			<appID commonID="Bank transfer (Wire)">Wire</appID>
+			<appID commonID="AP Check">Check</appID>
+		</appInstance>
+		<appInstance name="Orchestration.Variables">
+			<appID commonID="true">Debug</appID>
+			<appID commonID="ReceiveInvoiceFromSalesforceAndTransform">DebugCategory</appID>
+			<appID commonID="Total Split Percentage was not 100%, in Invoice Number :">SplitPercentageError</appID>
+			<appID commonID="There were no cost centers associated in Invoice Number :">NoCostCentersError</appID>
+			<appID commonID="An unknown Error occured in Invoice Number in Invoice Number: ">UnknownErrorInvoiceID</appID>
+			<appID commonID="10000">MaxCommentSize</appID>
+			<!--
+			SAPCommitTimeout is used in the Commit message to SAP after a message it put into the system
+			Use only values that resolve to integers
+			
+			-->
+			<appID commonID="60">SAPCommitTimeout</appID>
+			<appID commonID="The InvoiceID in the inbound message was empty or null, xPathExpression used was: ">InvoiceIDErrorMsg</appID>
+			<appID commonID="The count of records returned from the query was not '1', The query used was: ">InvoiceCountErrorMsg</appID>
+			<appID commonID="The Invoice Number was invalid for Invoice ID: ">InvoiceNumberErrorMsg</appID>
+		</appInstance>
+	</idXRef>
+</listOfIDXRefData>

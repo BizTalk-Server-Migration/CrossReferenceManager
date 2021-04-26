@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<listOfIDXRefData>
+	<idXRef name="Customer.Integration.BizTalk.GE.Invoicing">
+		<appInstance name="X_InvoiceAPApprovedToBAPI_ACC_INVOICE_RECEIPT_POST">
+			<appID commonID="2300000000">SAPDocFormatString</appID>
+			<appID commonID="SFDOCNO000000000">REF_DOC_NO_FormatString</appID>
+			<appID commonID="BKPFF">OBJ_TYPE</appID>
+			<appID commonID="SAPDEV003">OBJ_SYS</appID>
+			<appID commonID="21">COMP_CODE</appID>
+			<appID commonID="Y1">DOC_TYPE</appID>
+		</appInstance>
+		<appInstance name="X_InvoiceAPApprovedToBAPI_ACC_INVOICE_RECEIPT_ET">
+			<appID commonID="53760.000">Client Event</appID>
+			<appID commonID="53760.001">Personal Gift</appID>
+			<appID commonID="53760.002">Professional Gift</appID>
+			<appID commonID="53760.003">Promotional Gift</appID>
+			<appID commonID="53760.004">Ticket Package</appID>
+			<appID commonID="53770.000">Client Sponsorship</appID>
+			<appID commonID="53772.000">Charitable Contribution</appID>
+			<appID commonID="59770.000">Client Travel</appID>
+			<appID commonID="59780.000">Client Meal</appID>
+		</appInstance>
+    <appInstance name="X_InvoiceAPApprovedToBAPI_SAP_PaymentMethods">
+      <appID commonID="B">Bank Direct Debits (ACH)</appID>
+      <appID commonID="C">AP Check</appID>
+      <appID commonID="T">Bank transfer (Wire)</appID>
+      <appID commonID="X">International Checks</appID>
+      <appID commonID="Y">Employee Expense Reports</appID>
+    </appInstance>
+    <appInstance name="X_InvoiceAPApprovedToBAPI_SFDC_PaymentMethods">
+      <appID commonID="Bank transfer (Wire)">Wire</appID>
+      <appID commonID="AP Check">Check</appID>
+    </appInstance>
+    <appInstance name="Orchestration.Variables">
+			<appID commonID="true">Debug</appID>
+			<appID commonID="ReceiveInvoiceFromSalesforceAndTransform">DebugCategory</appID>
+		</appInstance>
+		</idXRef>
+</listOfIDXRefData>

@@ -1,0 +1,12 @@
+C:\Users\tcanter\source\repos\CrossReferenceManager\bin\Debug\WindowsApplication.exe.config
+C:\Users\tcanter\source\repos\CrossReferenceManager\bin\Debug\WindowsApplication.exe
+C:\Users\tcanter\source\repos\CrossReferenceManager\bin\Debug\WindowsApplication.pdb
+C:\Users\tcanter\source\repos\CrossReferenceManager\bin\Debug\Microsoft.BizTalk.CrossReferencing.dll
+C:\Users\tcanter\source\repos\CrossReferenceManager\obj\x86\Debug\CrossReferenceManager.csprojAssemblyReference.cache
+C:\Users\tcanter\source\repos\CrossReferenceManager\obj\x86\Debug\CanterIntegration.BizTalk.CrossReference.CrossReferenceManager.resources
+C:\Users\tcanter\source\repos\CrossReferenceManager\obj\x86\Debug\CrossReferenceManager.Properties.Resources.resources
+C:\Users\tcanter\source\repos\CrossReferenceManager\obj\x86\Debug\CrossReferenceManager.csproj.GenerateResource.cache
+C:\Users\tcanter\source\repos\CrossReferenceManager\obj\x86\Debug\CrossReferenceManager.csproj.CoreCompileInputs.cache
+C:\Users\tcanter\source\repos\CrossReferenceManager\obj\x86\Debug\CrossReferenceManager.csproj.CopyComplete
+C:\Users\tcanter\source\repos\CrossReferenceManager\obj\x86\Debug\WindowsApplication.exe
+C:\Users\tcanter\source\repos\CrossReferenceManager\obj\x86\Debug\WindowsApplication.pdb

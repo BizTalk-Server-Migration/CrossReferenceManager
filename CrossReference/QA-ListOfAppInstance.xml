@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<listOfAppInstance>
+	<appInstance>
+		<instance>X_InvoiceAPApprovedToBAPI_ACC_INVOICE_RECEIPT_POST</instance>
+		<type>Sample.InvXRef</type>
+	</appInstance>
+	<appInstance>
+		<instance>X_InvoiceAPApprovedToBAPI_ACC_INVOICE_RECEIPT_ET</instance>
+		<type>Sample.ExpenseType</type>
+	</appInstance>
+	<appInstance>
+		<instance>X_InvoiceAPApprovedToBAPI_SFDC_PaymentMethods</instance>
+		<type>Sample.SFDC_PaymentMethods</type>
+	</appInstance>
+	<appInstance>
+		<instance>X_InvoiceAPApprovedToBAPI_SAP_PaymentMethods</instance>
+		<type>Sample.SAP_PaymentMethods</type>
+	</appInstance>
+	<appInstance>
+		<instance>X_InvoiceAPApprovedToBAPI_Defaults</instance>
+		<type>Sample.Defaults</type>
+	</appInstance>
+	<appInstance>
+		<instance>Orchestration.Variables</instance>
+		<type>Sample.Variables</type>
+	</appInstance>
+</listOfAppInstance>
+
+

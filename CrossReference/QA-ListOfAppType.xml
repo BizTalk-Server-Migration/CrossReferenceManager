@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<listOfAppType>
+	<appType>
+		<name>Sample.InvXRef</name>
+		<name>Sample.ExpenseType</name>
+		<name>Sample.Variables</name>
+		<name>Sample.SFDC_PaymentMethods</name>
+		<name>Sample.SAP_PaymentMethods</name>
+		<name>Sample.Defaults</name>
+	</appType>
+</listOfAppType>
+
+

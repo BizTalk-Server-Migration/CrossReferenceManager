@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Setup-Files>
+	<App_Type_file>QA-ListOfAppType.xml</App_Type_file>
+    <App_Instance_file>QA-ListOfAppInstance.xml</App_Instance_file>
+    <IDXRef_file>QA-ListOfIDXRef.xml</IDXRef_file>
+	<IDXRef_Data_file>QA-ListOfIDXRefData.xml</IDXRef_Data_file>
+</Setup-Files>

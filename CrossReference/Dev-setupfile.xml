@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Setup-Files>
+	
+	<!--btsxrefimport –file=setupfile.xml-->
+    <!--<ValueXRef_file>ListOfValueXRef.xml</ValueXRef_file>
+    <ValueXRef_Data_file>ListOfValueXRef_Data.xml</ValueXRef_Data_file>
+    <Msg_Def_file>ListOfMessageDefinition.xml</Msg_Def_file>
+	<Msg_Text_file>ListOfMessageText.xml</Msg_Text_file>
+	-->
+	<App_Type_file>ListOfAppType.xml</App_Type_file>
+    <App_Instance_file>ListOfAppInstance.xml</App_Instance_file>
+    <IDXRef_file>ListOfIDXRef.xml</IDXRef_file>
+	<IDXRef_Data_file>Dev-ListOfIDXRefData.xml</IDXRef_Data_file>
+</Setup-Files>
